@@ -1,6 +1,5 @@
 name: Tor Proxy
-description: |
-  # Tor Proxy
+description: HTTP proxy through the tor network
 version: 0.1.0
 category: Proxies
 maintainer: Andrew Red
