@@ -1,5 +1,5 @@
 
-![Logo](https://drive.google.com/uc?export=jpg&id=0B9g_L85OPC7KUHVFVkdNUmh3MFk)
+<img src="https://drive.google.com/uc?export=jpg&id=0B9g_L85OPC7KUHVFVkdNUmh3MFk" width="150">
 
 # Tor Proxy
 
